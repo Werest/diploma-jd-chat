@@ -1,0 +1,4 @@
+PORT=8081
+HOST=localhost
+CLIENT_LOG=clientLog.log
+SERVER_LOG=serverLog.log
